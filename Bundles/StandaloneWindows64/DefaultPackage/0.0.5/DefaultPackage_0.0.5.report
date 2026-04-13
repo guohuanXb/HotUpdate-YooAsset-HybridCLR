@@ -1,0 +1,338 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.18",
+        "UnityVersion": "6000.0.62f1",
+        "BuildDate": "2026/2/25 16:22:12",
+        "BuildSeconds": 2,
+        "BuildTarget": 19,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "0.0.5",
+        "BuildPackageNote": "2026/2/25 16:22:09",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "ManifestProcessServicesClassName": "YooAsset.Editor.ManifestProcessNone",
+        "ManifestRestoreServicesClassName": "YooAsset.Editor.ManifestRestoreNone",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "unityshaders.bundle",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 11,
+        "MainAssetTotalCount": 8,
+        "AllBundleTotalCount": 6,
+        "AllBundleTotalSize": 1585446,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/HotUpdate.dll.bytes",
+            "AssetGUID": "38baad64aa650c74daf64a3086275e40",
+            "AssetTags": [
+                "Code"
+            ],
+            "MainBundleName": "assets_hotupdateassets_code.bundle",
+            "MainBundleSize": 1377895,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/mscorlib.dll.bytes",
+            "AssetGUID": "f8440c12ae679464ebf9ce04ac8f21e3",
+            "AssetTags": [
+                "Code"
+            ],
+            "MainBundleName": "assets_hotupdateassets_code.bundle",
+            "MainBundleSize": 1377895,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/System.Core.dll.bytes",
+            "AssetGUID": "1d38e7d16b5059b468c7d5bd9fe79aab",
+            "AssetTags": [
+                "Code"
+            ],
+            "MainBundleName": "assets_hotupdateassets_code.bundle",
+            "MainBundleSize": 1377895,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/System.dll.bytes",
+            "AssetGUID": "61ebae222db20ef4698e9a3a67e4d7b9",
+            "AssetTags": [
+                "Code"
+            ],
+            "MainBundleName": "assets_hotupdateassets_code.bundle",
+            "MainBundleSize": 1377895,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "0339964f22d2f4f4f80db4dc0cac1602",
+            "AssetTags": [
+                "Code"
+            ],
+            "MainBundleName": "assets_hotupdateassets_code.bundle",
+            "MainBundleSize": 1377895,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Cube1",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube1.prefab",
+            "AssetGUID": "20ec4bdfd9d5cd24193854089c0d816a",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "MainBundleName": "assets_hotupdateassets_prefab.bundle",
+            "MainBundleSize": 3464,
+            "DependAssets": [
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+                    "AssetGUID": "31321ba15b8f8eb4c954353edc038b1d"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                }
+            ],
+            "DependBundles": [
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "Cube2",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube2.prefab",
+            "AssetGUID": "74b2519438235b043a2e1bf13285ce26",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "MainBundleName": "assets_hotupdateassets_prefab.bundle",
+            "MainBundleSize": 3464,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/ArtResources/Red.mat",
+                    "AssetGUID": "639c944c6c75eee4c9a80205100af6c2"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                }
+            ],
+            "DependBundles": [
+                "share_assets_artresources.bundle",
+                "unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "Boot",
+            "AssetPath": "Assets/HotUpdateAssets/Scenes/Boot.unity",
+            "AssetGUID": "4732df7f73c82224aab9cf1709d6dcff",
+            "AssetTags": [
+                "Scene"
+            ],
+            "MainBundleName": "assets_hotupdateassets_scenes_boot.bundle",
+            "MainBundleSize": 141289,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/ArtResources/Red.mat",
+                    "AssetGUID": "639c944c6c75eee4c9a80205100af6c2"
+                },
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                }
+            ],
+            "DependBundles": [
+                "share_assets_artresources.bundle",
+                "unityshaders.bundle"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotupdateassets_code.bundle",
+            "FileName": "8ae743b7753a5d006ce27dcad7885f55.bundle",
+            "FileHash": "8ae743b7753a5d006ce27dcad7885f55",
+            "FileCRC": 3498813860,
+            "FileSize": 1377895,
+            "Encrypted": false,
+            "Tags": [
+                "Code"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Code/HotUpdate.dll.bytes",
+                    "AssetGUID": "38baad64aa650c74daf64a3086275e40"
+                },
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Code/mscorlib.dll.bytes",
+                    "AssetGUID": "f8440c12ae679464ebf9ce04ac8f21e3"
+                },
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Code/System.Core.dll.bytes",
+                    "AssetGUID": "1d38e7d16b5059b468c7d5bd9fe79aab"
+                },
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Code/System.dll.bytes",
+                    "AssetGUID": "61ebae222db20ef4698e9a3a67e4d7b9"
+                },
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Code/UnityEngine.CoreModule.dll.bytes",
+                    "AssetGUID": "0339964f22d2f4f4f80db4dc0cac1602"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateassets_prefab.bundle",
+            "FileName": "5ff4c864f12853d438aba965b35def19.bundle",
+            "FileHash": "5ff4c864f12853d438aba965b35def19",
+            "FileCRC": 2204383508,
+            "FileSize": 3464,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab"
+            ],
+            "DependBundles": [
+                "share_assets_artresources.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube1.prefab",
+                    "AssetGUID": "20ec4bdfd9d5cd24193854089c0d816a"
+                },
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube2.prefab",
+                    "AssetGUID": "74b2519438235b043a2e1bf13285ce26"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateassets_scenes_boot.bundle",
+            "FileName": "8df85bf41b76af69b1ac8f681ceff80e.bundle",
+            "FileHash": "8df85bf41b76af69b1ac8f681ceff80e",
+            "FileCRC": 2107723563,
+            "FileSize": 141289,
+            "Encrypted": false,
+            "Tags": [
+                "Scene"
+            ],
+            "DependBundles": [
+                "share_assets_artresources.bundle",
+                "unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdateAssets/Scenes/Boot.unity",
+                    "AssetGUID": "4732df7f73c82224aab9cf1709d6dcff"
+                }
+            ]
+        },
+        {
+            "BundleName": "share_assets_artresources.bundle",
+            "FileName": "09fb91e1674cbdfcaec49563ebe19f97.bundle",
+            "FileHash": "09fb91e1674cbdfcaec49563ebe19f97",
+            "FileCRC": 1762558714,
+            "FileSize": 2929,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab",
+                "Scene"
+            ],
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "assets_hotupdateassets_prefab.bundle",
+                "assets_hotupdateassets_scenes_boot.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/ArtResources/Red.mat",
+                    "AssetGUID": "639c944c6c75eee4c9a80205100af6c2"
+                }
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "FileName": "db8cb704f9eec6afba11fc8d511cf0b4.bundle",
+            "FileHash": "db8cb704f9eec6afba11fc8d511cf0b4",
+            "FileCRC": 4248795286,
+            "FileSize": 3039,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab"
+            ],
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "assets_hotupdateassets_prefab.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+                    "AssetGUID": "31321ba15b8f8eb4c954353edc038b1d"
+                }
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "b4a07e92d65f73498d5fef37d2520cf9.bundle",
+            "FileHash": "b4a07e92d65f73498d5fef37d2520cf9",
+            "FileCRC": 3633098478,
+            "FileSize": 56830,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab",
+                "Scene"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "assets_hotupdateassets_prefab.bundle",
+                "assets_hotupdateassets_scenes_boot.bundle",
+                "share_assets_artresources.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "AssetGUID": "933532a4fcc9baf4fa0491de14d08ed7"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

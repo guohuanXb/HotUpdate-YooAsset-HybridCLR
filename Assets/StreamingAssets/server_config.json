@@ -1,0 +1,5 @@
+{
+  "serverUrl": "http://localhost:8080",
+  "resourceUrl": "http://localhost:8080/resources",
+  "versionUrl": "http://localhost:8080/version"
+}

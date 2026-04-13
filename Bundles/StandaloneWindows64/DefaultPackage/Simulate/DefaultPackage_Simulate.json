@@ -1,0 +1,188 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 1,
+    "BuildPipeline": "EditorSimulateBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "PackageNote": "2026/2/27 17:34:20",
+    "AssetList": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/HotUpdate.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/HotUpdateAssets/Code/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Code"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TestCube",
+            "AssetPath": "Assets/HotUpdateAssets/Materials/TestCube.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Materials"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube1",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube2",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Main",
+            "AssetPath": "Assets/HotUpdateAssets/Scenes/Main.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scene"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "CubeAttribute",
+            "AssetPath": "Assets/HotUpdateAssets/SO/CubeAttribute.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ScriptableObject"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateassets_code.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b4ff4edcf1f41e50bdc30932dd4746a0",
+            "FileCRC": 0,
+            "FileSize": 3462656,
+            "Encrypted": false,
+            "Tags": [
+                "Code"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateassets_materials.bundle",
+            "UnityCRC": 0,
+            "FileHash": "7d44f0c246944971af46ff86ef71c251",
+            "FileCRC": 0,
+            "FileSize": 3739,
+            "Encrypted": false,
+            "Tags": [
+                "Materials"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateassets_prefab.bundle",
+            "UnityCRC": 0,
+            "FileHash": "14c5e492dddd21fdba7d1629f53afc33",
+            "FileCRC": 0,
+            "FileSize": 6186,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateassets_scenes_main.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0fc8465356f62103358f63929f427156",
+            "FileCRC": 0,
+            "FileSize": 11835,
+            "Encrypted": false,
+            "Tags": [
+                "Scene"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateassets_so.bundle",
+            "UnityCRC": 0,
+            "FileHash": "9149316619b128bbe59994366a187c31",
+            "FileCRC": 0,
+            "FileSize": 520,
+            "Encrypted": false,
+            "Tags": [
+                "ScriptableObject"
+            ],
+            "DependBundleIDs": []
+        }
+    ]
+}

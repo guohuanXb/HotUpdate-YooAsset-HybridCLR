@@ -1,0 +1,103 @@
+# 默认：所有文本文件统一使用 LF
+* text=auto eol=lf
+
+# ── Unity 文本资源 ──────────────────────────────
+*.cs            text eol=lf
+*.shader        text eol=lf
+*.cginc         text eol=lf
+*.hlsl          text eol=lf
+*.glsl          text eol=lf
+*.compute       text eol=lf
+*.meta          text eol=lf
+*.unity         text eol=lf merge=unityyamlmerge
+*.prefab        text eol=lf merge=unityyamlmerge
+*.asset         text eol=lf merge=unityyamlmerge
+*.anim          text eol=lf merge=unityyamlmerge
+*.controller    text eol=lf merge=unityyamlmerge
+*.overrideController text eol=lf
+*.physicsMaterial2D  text eol=lf
+*.physicsMaterial    text eol=lf
+*.mask          text eol=lf
+*.mat           text eol=lf merge=unityyamlmerge
+*.playable      text eol=lf
+*.signal        text eol=lf
+*.guiskin       text eol=lf
+*.fontsettings  text eol=lf
+*.renderTexture text eol=lf
+*.flare         text eol=lf
+*.lighting      text eol=lf
+*.cubemap       text eol=lf
+*.spriteatlas   text eol=lf
+*.terrainlayer  text eol=lf
+
+# ── 配置 / 数据文件 ─────────────────────────────
+*.json          text eol=lf
+*.xml           text eol=lf
+*.yaml          text eol=lf
+*.yml           text eol=lf
+*.txt           text eol=lf
+*.md            text eol=lf
+*.csv           text eol=lf
+*.tsv           text eol=lf
+*.asmdef        text eol=lf
+*.asmref        text eol=lf
+*.inputactions  text eol=lf
+
+# ── 脚本 / 构建文件 ─────────────────────────────
+*.sh            text eol=lf
+*.bat           text eol=crlf
+*.cmd           text eol=crlf
+
+# ── 图片（二进制）───────────────────────────────
+*.png           binary
+*.jpg           binary
+*.jpeg          binary
+*.gif           binary
+*.bmp           binary
+*.tga           binary
+*.tif           binary
+*.tiff          binary
+*.psd           binary
+*.ico           binary
+*.webp          binary
+*.svg           text eol=lf
+
+# ── 音频（二进制）───────────────────────────────
+*.mp3           binary
+*.wav           binary
+*.ogg           binary
+*.aiff          binary
+*.aif           binary
+*.flac          binary
+
+# ── 视频（二进制）───────────────────────────────
+*.mp4           binary
+*.mov           binary
+*.avi           binary
+*.webm          binary
+
+# ── 3D 模型（二进制）────────────────────────────
+*.fbx           binary
+*.obj           text eol=lf
+*.blend         binary
+*.dae           text eol=lf
+*.3ds           binary
+*.max           binary
+*.mb            binary
+*.ma            binary
+
+# ── 字体（二进制）───────────────────────────────
+*.ttf           binary
+*.otf           binary
+*.woff          binary
+*.woff2         binary
+
+# ── 其他二进制 ──────────────────────────────────
+*.dll           binary
+*.so            binary
+*.dylib         binary
+*.exe           binary
+*.zip           binary
+*.unitypackage  binary
+*.pdf           binary
+*.pdb           binary

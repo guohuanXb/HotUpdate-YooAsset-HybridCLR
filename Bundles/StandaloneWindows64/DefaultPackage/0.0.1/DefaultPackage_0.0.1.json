@@ -1,0 +1,130 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "0.0.1",
+    "PackageNote": "2026/2/25 10:35:36",
+    "AssetList": [
+        {
+            "Address": "Cube1",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                3,
+                4
+            ]
+        },
+        {
+            "Address": "Cube2",
+            "AssetPath": "Assets/HotUpdateAssets/Prefab/Cube2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Prefab"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                2,
+                4
+            ]
+        },
+        {
+            "Address": "Boot",
+            "AssetPath": "Assets/HotUpdateAssets/Scenes/Boot.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                3,
+                4
+            ]
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateassets_prefab.bundle",
+            "UnityCRC": 3631041268,
+            "FileHash": "5ff4c864f12853d438aba965b35def19",
+            "FileCRC": 2204383508,
+            "FileSize": 3464,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab"
+            ],
+            "DependBundleIDs": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateassets_scenes_boot.bundle",
+            "UnityCRC": 1190109192,
+            "FileHash": "910ebcf2fe07c94129a3394c40bb035a",
+            "FileCRC": 3770916947,
+            "FileSize": 141292,
+            "Encrypted": false,
+            "Tags": [
+                "Scene"
+            ],
+            "DependBundleIDs": [
+                3,
+                4
+            ]
+        },
+        {
+            "BundleName": "share_assets_artresources.bundle",
+            "UnityCRC": 2964092950,
+            "FileHash": "09fb91e1674cbdfcaec49563ebe19f97",
+            "FileCRC": 1762558714,
+            "FileSize": 2929,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab"
+            ],
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "UnityCRC": 3965269750,
+            "FileHash": "db8cb704f9eec6afba11fc8d511cf0b4",
+            "FileCRC": 4248795286,
+            "FileSize": 3039,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab",
+                "Scene"
+            ],
+            "DependBundleIDs": [
+                4
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 962256293,
+            "FileHash": "b4a07e92d65f73498d5fef37d2520cf9",
+            "FileCRC": 3633098478,
+            "FileSize": 56830,
+            "Encrypted": false,
+            "Tags": [
+                "Prefab",
+                "Scene"
+            ],
+            "DependBundleIDs": []
+        }
+    ]
+}

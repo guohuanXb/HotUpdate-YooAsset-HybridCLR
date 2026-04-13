@@ -1,0 +1,31 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "0.0.5",
+    "Wrappers": [
+        {
+            "BundleGUID": "09fb91e1674cbdfcaec49563ebe19f97",
+            "FileName": "09fb91e1674cbdfcaec49563ebe19f97.bundle"
+        },
+        {
+            "BundleGUID": "5ff4c864f12853d438aba965b35def19",
+            "FileName": "5ff4c864f12853d438aba965b35def19.bundle"
+        },
+        {
+            "BundleGUID": "8ae743b7753a5d006ce27dcad7885f55",
+            "FileName": "8ae743b7753a5d006ce27dcad7885f55.bundle"
+        },
+        {
+            "BundleGUID": "8df85bf41b76af69b1ac8f681ceff80e",
+            "FileName": "8df85bf41b76af69b1ac8f681ceff80e.bundle"
+        },
+        {
+            "BundleGUID": "b4a07e92d65f73498d5fef37d2520cf9",
+            "FileName": "b4a07e92d65f73498d5fef37d2520cf9.bundle"
+        },
+        {
+            "BundleGUID": "db8cb704f9eec6afba11fc8d511cf0b4",
+            "FileName": "db8cb704f9eec6afba11fc8d511cf0b4.bundle"
+        }
+    ]
+}
